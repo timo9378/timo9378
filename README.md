@@ -4,8 +4,6 @@
 
 **Rust-leaning full-stack engineer · self-hosting everything on my own homelab**
 
-[koimsurai.com](https://koimsurai.com)
-
 <br>
 
 ![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white)
@@ -35,6 +33,8 @@
 
 <br><br>
 
+[![koimsurai.com](https://img.shields.io/badge/koimsurai.com-0a0a0a?style=flat-square&logo=googlechrome&logoColor=white)](https://koimsurai.com)
+![wakatime](https://waka.koimsurai.com/api/badge?style=flat-square&label=wakatime&labelColor=0a0a0a&color=27272a)
 ![profile views](https://komarev.com/ghpvc/?username=timo9378&style=flat-square&color=0a0a0a&label=profile%20views)
 
 </div>
