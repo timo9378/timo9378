@@ -31,10 +31,6 @@
 
 <br>
 
-<img height="175" src="https://ghstats.koimsurai.com/api/wakatime?username=timo9378&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a1a1aa" />
-
-<br>
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=timo9378&hide_border=true&bg_color=0a0a0a&color=fafafa&line=fafafa&point=fafafa&area=true&area_color=1c1c1f&hide_title=true" />
 
 <br><br>
