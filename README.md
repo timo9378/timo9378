@@ -26,12 +26,12 @@
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=timo9378&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=fafafa&icon_color=fafafa&text_color=a1a1aa" />
+<img height="165" src="https://ghstats.koimsurai.com/api?username=timo9378&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=fafafa&icon_color=fafafa&text_color=a1a1aa" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=timo9378&hide_border=true&background=0a0a0a&stroke=27272a&ring=fafafa&fire=fafafa&currStreakLabel=fafafa&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa" />
 
 <br>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/wakatime?username=timo9378&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a1a1aa" />
+<img height="175" src="https://ghstats.koimsurai.com/api/wakatime?username=timo9378&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a1a1aa" />
 
 <br>
 
