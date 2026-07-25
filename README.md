@@ -4,7 +4,7 @@
 
 **Rust-leaning full-stack engineer · self-hosting everything on my own homelab**
 
-[koimsurai.com](https://koimsurai.com) &nbsp;·&nbsp; ![profile views](https://komarev.com/ghpvc/?username=timo9378&style=flat-square&color=0a0a0a&label=profile%20views)
+[koimsurai.com](https://koimsurai.com)
 
 <br>
 
@@ -36,5 +36,9 @@
 <br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=timo9378&hide_border=true&bg_color=0a0a0a&color=fafafa&line=fafafa&point=fafafa&area=true&area_color=1c1c1f&hide_title=true" />
+
+<br><br>
+
+![profile views](https://komarev.com/ghpvc/?username=timo9378&style=flat-square&color=0a0a0a&label=profile%20views)
 
 </div>
