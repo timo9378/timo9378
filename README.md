@@ -4,13 +4,14 @@
 
 **Rust-leaning full-stack engineer · self-hosting everything on my own homelab**
 
-[koimsurai.com](https://koimsurai.com)
+[koimsurai.com](https://koimsurai.com) &nbsp;·&nbsp; ![profile views](https://komarev.com/ghpvc/?username=timo9378&style=flat-square&color=0a0a0a&label=profile%20views)
 
 <br>
 
 ![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=white)
@@ -27,6 +28,10 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=timo9378&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=fafafa&icon_color=fafafa&text_color=a1a1aa" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=timo9378&hide_border=true&background=0a0a0a&stroke=27272a&ring=fafafa&fire=fafafa&currStreakLabel=fafafa&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa" />
+
+<br>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/wakatime?username=timo9378&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a1a1aa" />
 
 <br>
 
